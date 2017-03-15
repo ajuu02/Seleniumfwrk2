@@ -20,7 +20,7 @@ public class sampleTest1 extends userLibrary{
 	   ExtentTest test=ExtentTestNGITestListener.extent.createTest(method.getName());
        invokeBrowser("http://www.ndtv.com",test);
        logStep(test,  "TEST11", Status.PASS); 
-       logStep(test,  "TEST11", Status.FAIL); 
+       logStep(test,  "TEST11", Status.PASS); 
        logStep(test,  "TEST11", Status.FAIL); 
        logStep(test,  "TEST11", Status.FAIL); 
        logStep(test,  "TEST11", Status.FAIL); 
