@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24077" started-at="2017-03-24T16:48:48Z" finished-at="2017-03-24T16:49:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24077" started-at="2017-03-24T16:48:48Z" finished-at="2017-03-24T16:49:12Z">
+      <class name="sampleTests.sampleTest1">
+        <test-method status="PASS" signature="testMethod11(java.lang.reflect.Method)[pri:0, instance:sampleTests.sampleTest1@612679d6]" name="testMethod11" duration-ms="23566" started-at="2017-03-24T22:18:48Z" finished-at="2017-03-24T22:19:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void sampleTests.sampleTest1.testMethod11(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod11 -->
+        <test-method status="PASS" signature="testMethod12(java.lang.reflect.Method)[pri:0, instance:sampleTests.sampleTest1@612679d6]" name="testMethod12" duration-ms="24021" started-at="2017-03-24T22:18:48Z" finished-at="2017-03-24T22:19:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void sampleTests.sampleTest1.testMethod12(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod12 -->
+      </class> <!-- sampleTests.sampleTest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
