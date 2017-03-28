@@ -3,18 +3,8 @@
   <display-name>To do List</display-name>
   <welcome-file-list>
     <welcome-file>home</welcome-file>
+    <welcome-file>logout</welcome-file>
   </welcome-file-list>
-  <servlet>
-    <description></description>
-    <display-name>home</display-name>
-    <servlet-name>home</servlet-name>
-    <servlet-class>test.home</servlet-class>
-  </servlet>
-  <servlet>
-    <description></description>
-    <display-name>logout</display-name>
-    <servlet-name>logout</servlet-name>
-    <servlet-class>test.logout</servlet-class>
-  </servlet>
+ 
  
 </web-app>
